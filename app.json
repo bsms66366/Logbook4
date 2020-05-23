@@ -1,25 +1,26 @@
 {
   "expo": {
-    "name": "playlist-example",
-    "description": "a playlist of some songs that Greg likes to demo the Expo AV API.",
-    "scheme": "playlist-example",
-    "slug": "playlist-example",
-    "privacy": "public",
-    "sdkVersion": "34.0.0",
-    "version": "3.0.0",
-    "platforms": ["android", "ios"],
-    "githubUrl": "https://github.com/expo/playlist-example",
+    "name": "expo-picker-firebase-demo",
+    "slug": "expo-picker-firebase-demo",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
     "orientation": "portrait",
-    "primaryColor": "#cccccc",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/icon.png",
     "splash": {
-      "backgroundColor": "#ffffff",
-      "image": "./assets/images/icon.png",
-      "resizeMode": "contain"
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
     },
-    "packagerOpts": {
-      "assetExts": ["png", "ttf"]
+    "updates": {
+      "fallbackToCacheTimeout": 0
     },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
     "ios": {
       "supportsTablet": true
     }
