@@ -1,9 +1,10 @@
-# playlist example
+# expo-picker-firebase-demo
 
-An example app using the [Expo.Audio](https://docs.expo.io/versions/latest/sdk/audio/) & [Expo.Video](https://docs.expo.io/versions/latest/sdk/video/) API.
+A simple demo showing how to wire up firebase and expo.
 
-See [App.js](https://github.com/expo/playlist-example/blob/master/App.js) for the good stuff.
 
----
+- Firebase email/password authentication
+- Firebase Firestore with a doc per user
+- Expo android+ios+web
 
-### Please report any issues at the [main Expo repository](https://github.com/expo/expo/issues)
+
