@@ -9,18 +9,17 @@ import ViewPager from '@react-native-community/viewpager';
 
 //import pagesNav1 from '../screens/pagesNav1';
 
-import pagesNav from '../screens/pagesNav';
-import TabBarIcon from '../components/TabBarIcon';
+//import TabBarIcon from '../components/TabBarIcon';
 import Login from '../components/Login';
 import Form from '../components/Form';
 import ChoiceList from '../components/ChoiceList';
-import HomeScreen from '../screens/HomeScreen';
-import SettingsScreen from '../screens/SettingsScreen';
-import LinksScreen from '../screens/LinksScreen';
-import QRCodeScreen from '../screens/QRCodeScreen';
+//import HomeScreen from '../screens/HomeScreen';
+//import SettingsScreen from '../screens/SettingsScreen';
+//import LinksScreen from '../screens/LinksScreen';
+//import QRCodeScreen from '../screens/QRCodeScreen';
 import FeedbackScreen from '../screens/FeedbackScreen';
 //import SessionScreen from '../screens/SessionScreen';
-import attendanceDate from '../screens/attendanceDate';
+//import attendanceDate from '../screens/attendanceDate';
 //import dateScreen from '../screens/dateScreen';
 //import Authentication from '../screens/Authentication';
 //import Biometrics from '../screens/Biometrics';

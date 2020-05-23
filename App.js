@@ -63,7 +63,7 @@ export default class App extends Component {
               alignItems: 'center',
             }}>
             <Text style={{ color: 'white', fontSize: 20 }}>THE BSMS LOGBOOK</Text>
-            <Image source={require('../assets/images/ClinicalSkillsLogo3.png')} style={{width: 100, height: 130, }} />
+            <Image source={require('assets/images/ClinicalSkillsLogo4.png')} style={{width: 100, height: 130, }} />
           </View>
           <View
             style={{
